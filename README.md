@@ -25,9 +25,12 @@ The challenge aims to share an online basic drum kit.
 
 ### Links
 
-
+https://bekirkutluhan.github.io/DrumKit-Challenge/
 
 ## My process
+
+My first goal was learning how to manipulate html objects by using DOM.
+Afterwards i applied methods that i learned.
 
 ### Built with
 
